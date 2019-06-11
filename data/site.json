@@ -3,24 +3,24 @@
     {
       "sitename": "Fly My Community",
       "icon": "/img/favicon.png",
-      "logo": "/img/logofly.png",
+      "logo": "https://res.cloudinary.com/fmcapp/image/upload/v1560226926/i3ipuj2j4kifb1xwdc87.png",
       "logoname": "Fly My Community",
       "metadesc": "Trusted By Fine Real Estate Professionals",
       "metauthor": "Fly My Community",
-      "metakeyword": "cms",
+      "metakeyword": "Brian Boals",
       "footer": "All rights reserved! 2018 WebriQ Pte Ltd"
     }
   ],
   "content": [
     {
-      "email": "realagent@flymycommunity.com",
+      "email": "brianboals@gmail.com",
       "logo": "/img/logofly.png",
-      "linkcont": "032000333555",
-      "videoid": "255662356",
+      "linkcont": "719-459-9955",
+      "videoid": "311602900",
       "sliderbg": "/img/slider_bg.jpg",
       "sliderbg_video": "https://player.vimeo.com/video/250014579?background=1",
-      "slidertext1": "Crystal Park",
-      "slidertext2": "Crystal Park is a private gated mountain community within the Pikes Peak region. Located above Colorado Springs and adjacent to Manitou Springs.....",
+      "slidertext1": "Flying Horse is a resort like community on the north end of Colorado Springs with a luxurious Country Club and award winning golf course.",
+      "slidertext2": "Flying Horse",
       "poplink": "//vimeo.com/250014579"
     }
   ],
